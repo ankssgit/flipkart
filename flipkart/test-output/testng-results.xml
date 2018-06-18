@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="37" started-at="2018-06-18T10:39:56Z" finished-at="2018-06-18T10:39:56Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="37" started-at="2018-06-18T10:39:56Z" finished-at="2018-06-18T10:39:56Z">
+      <class name="com.testyantra.flipkart.flipkart.App">
+        <test-method status="PASS" signature="flip()[pri:0, instance:com.testyantra.flipkart.flipkart.App@1500955a]" name="flip" duration-ms="9" started-at="2018-06-18T10:39:56Z" finished-at="2018-06-18T10:39:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flip -->
+      </class> <!-- com.testyantra.flipkart.flipkart.App -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
