@@ -13,4 +13,9 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+	@Test
+	public void editDetails()
+	{
+		System.out.println("1st User:ANKIT SAGAR SINGH");
+	}
 }
